@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="张禹 Yu Zhang — AI-augmented product manager">
+<style>
+  .name { font: 600 44px/1 Georgia, "Iowan Old Style", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", serif; fill: #f3ecdf; letter-spacing: .5px; }
+  .latin { font: 400 22px/1 Georgia, "Iowan Old Style", serif; fill: #a89e8e; letter-spacing: 1.5px; }
+  .typed { font: 400 21px/1 ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; fill: #f3ecdf; }
+  .meta { font: 400 13px/1 ui-monospace, "SF Mono", Menlo, Consolas, monospace; fill: #a89e8e; letter-spacing: .6px; }
+  .caret { fill: #c9a86d; }
+  .prompt { font: 400 21px/1 ui-monospace, "SF Mono", Menlo, Consolas, monospace; fill: #c9a86d; }
+</style>
+<defs>
+  <filter id="paper" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="7" stitchTiles="stitch"/>
+    <feColorMatrix values="0 0 0 0 .5  0 0 0 0 .5  0 0 0 0 .5  0 0 0 0.05 0"/>
+  </filter>
+  <linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="72" x2="492" y1="0" y2="0">
+    <stop offset="0" stop-color="#c9a86d"/>
+    <stop offset=".7" stop-color="#c9a86d"/>
+    <stop offset="1" stop-color="#c9a86d" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="c0"><rect x="72" y="137" height="32" width="0"><animate attributeName="width" values="0;0;353.976;353.976;0;0" keyTimes="0;0;0.0809;0.1808;0.2045;1" dur="19.025s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath><clipPath id="c1"><rect x="72" y="137" height="32" width="0"><animate attributeName="width" values="0;0;556.248;556.248;0;0" keyTimes="0;0.2334;0.3606;0.4604;0.4841;1" dur="19.025s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath><clipPath id="c2"><rect x="72" y="137" height="32" width="0"><animate attributeName="width" values="0;0;480.396;480.396;0;0" keyTimes="0;0.513;0.6229;0.7227;0.7464;1" dur="19.025s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath><clipPath id="c3"><rect x="72" y="137" height="32" width="0"><animate attributeName="width" values="0;0;316.05;316.05;0;0" keyTimes="0;0.7753;0.8476;0.9474;0.9711;1" dur="19.025s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="900" height="230" rx="14" fill="#1b1915"/>
+<rect width="900" height="230" rx="14" filter="url(#paper)"/>
+<rect x=".5" y=".5" width="899" height="229" rx="13.5" fill="none" stroke="#3a342b"/>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".9s" begin=".1s" fill="freeze"/>
+  <text class="name" x="72" y="86">张禹</text>
+  <text class="latin" x="190" y="86">Yu Zhang</text>
+</g>
+<rect x="72" y="105" width="0" height="1.5" fill="url(#rule)">
+  <animate attributeName="width" from="0" to="420" dur="1.1s" begin=".5s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1"/>
+</rect>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.3s" fill="freeze"/>
+  <text class="prompt" x="50" y="158">›</text>
+  <text class="typed" x="72" y="158" clip-path="url(#c0)">AI-augmented product manager</text><rect class="caret" x="72" y="139" width="2" height="25" opacity="0"><animate attributeName="x" values="72;72;428.976;428.976;72;72" keyTimes="0;0;0.0809;0.1808;0.2045;1" dur="19.025s" calcMode="linear" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0;0.0809;0.1808;0.2044;1" dur="19.025s" calcMode="discrete" repeatCount="indefinite"/></rect><text class="typed" x="72" y="158" clip-path="url(#c1)">writes skills that teach coding agents taste</text><rect class="caret" x="72" y="139" width="2" height="25" opacity="0"><animate attributeName="x" values="72;72;631.248;631.248;72;72" keyTimes="0;0.2334;0.3606;0.4604;0.4841;1" dur="19.025s" calcMode="linear" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.2334;0.3606;0.4604;0.484;1" dur="19.025s" calcMode="discrete" repeatCount="indefinite"/></rect><text class="typed" x="72" y="158" clip-path="url(#c2)">ships an AI daily brief, every morning</text><rect class="caret" x="72" y="139" width="2" height="25" opacity="0"><animate attributeName="x" values="72;72;555.396;555.396;72;72" keyTimes="0;0.513;0.6229;0.7227;0.7464;1" dur="19.025s" calcMode="linear" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.513;0.6229;0.7227;0.7463;1" dur="19.025s" calcMode="discrete" repeatCount="indefinite"/></rect><text class="typed" x="72" y="158" clip-path="url(#c3)">stay hungry, stay foolish</text><rect class="caret" x="72" y="139" width="2" height="25" opacity="0"><animate attributeName="x" values="72;72;391.05;391.05;72;72" keyTimes="0;0.7753;0.8476;0.9474;0.9711;1" dur="19.025s" calcMode="linear" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.7753;0.8476;0.9474;0.971;1" dur="19.025s" calcMode="discrete" repeatCount="indefinite"/></rect>
+  <rect class="caret" x="72" y="139" width="2" height="25" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0;1;0" keyTimes="0;0.2045;0.2334;0.4841;0.513;0.7464;0.7753;0.9711;1" dur="19.025s" calcMode="discrete" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.8s" fill="freeze"/>
+  <text class="meta" x="72" y="200">Beijing · oaioil.cn · yuzhang-ai.github.io/ai-daily</text>
+</g>
+</svg>
