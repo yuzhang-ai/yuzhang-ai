@@ -7,7 +7,7 @@
 
 ## 简体中文
 
-AI 产品经理，在北京。以前做设计，现在用 AI 做产品：一边把设计和动效的判断写成 coding agent 能执行的 skill，一边每天出一期 AI 日报。作品和更多内容在 [oaioil.cn](https://oaioil.cn/)。
+AI 产品经理：一边把设计和动效的判断写成 coding agent 能执行的 skill，一边每天出一期 AI 日报。作品和更多内容在 [oaioil.cn](https://oaioil.cn/)。
 
 > 读的顺序：想看怎么让 agent 做出有设计感的页面，先看 [codex-ui-designer-kit](https://github.com/yuzhang-ai/codex-ui-designer-kit) 和 [web-animation-skill](https://github.com/yuzhang-ai/web-animation-skill)；想看这套方法做出来的东西，看 [琴窗 MeloVista](https://melovista.vercel.app/) 和 [AI 每日简报](https://yuzhang-ai.github.io/ai-daily/)。
 
